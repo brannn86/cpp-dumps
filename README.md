@@ -1,2 +1,2 @@
-# stack-and-linkedlist-with-cpp
-my assignment on Data Structure course
+# C++ dumping repo
+my assignments
